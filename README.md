@@ -13,4 +13,4 @@ O site é um portal turistico simples desenvolvido como projeto avaliativo da di
 
 ## Link do site publicado no GitHub
 
-https://github.com/EnzoZambon1/portal-turistico
+https://enzozambon1.github.io/portal-turistico/
